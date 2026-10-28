@@ -11,8 +11,6 @@ The project was implemented primarily through the AWS Management Console.
 
 The diagram represents the intended architecture and includes proposed Route 53 DNS integration and an RDS Multi-AZ deployment to demonstrate the target design.
 
-**Implementation status:** Route 53 custom-domain integration and RDS Multi-AZ were not deployed in the current environment. The diagram distinguishes these proposed components from the verified implementation.
-
 ```mermaid
 flowchart TB
     User["Users"]
