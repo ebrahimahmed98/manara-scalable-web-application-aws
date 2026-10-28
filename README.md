@@ -66,6 +66,17 @@ flowchart TB
     class R53,DBPrimary,DBStandby proposed
 ```
 
+
+## AWS Architecture
+
+The following diagram presents the architecture of the scalable web application, including traffic distribution, application hosting, networking, database design, and monitoring.
+
+![AWS Architecture Diagram](screenshots/aws-architecture.png)
+
+The diagram illustrates a two-Availability-Zone design, including Route 53 and an RDS Multi-AZ configuration as architectural design elements. Refer to the implementation details and screenshots in this repository to distinguish deployed resources from the target architecture.
+
+
+
 ## AWS Services
 
 | Service | Purpose |
