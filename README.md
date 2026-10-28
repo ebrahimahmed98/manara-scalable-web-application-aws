@@ -71,7 +71,7 @@ flowchart TB
 
 The following diagram presents the architecture of the scalable web application, including traffic distribution, application hosting, networking, database design, and monitoring.
 
-<img width="1536" height="1024" alt="Scalable AWS Web Application Architecture" src="https://github.com/user-attachments/assets/703d7f01-8137-418b-a854-c8308ba48ead" />
+<img width="1672" height="941" alt="wide_clean_colorful_aws_architecture_diagram_inf" src="https://github.com/user-attachments/assets/d859f155-53a8-422a-9df4-f61c0b1c7661" />
 
 
 The diagram illustrates a two-Availability-Zone design, including Route 53 and an RDS Multi-AZ configuration as architectural design elements. Refer to the implementation details and screenshots in this repository to distinguish deployed resources from the target architecture.
